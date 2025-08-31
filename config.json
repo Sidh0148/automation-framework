@@ -1,0 +1,14 @@
+{
+    "base_url": "https://opensource-demo.orangehrmlive.com/",
+    "browser": "chrome",
+    "headless": false,
+    "timeout": 10,
+    "valid_user": {
+        "username": "Admin",
+        "password": "admin123"
+    },
+    "invalid_user": {
+        "username": "Admin",
+        "password": "wrongpass"
+    }
+}
